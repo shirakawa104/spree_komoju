@@ -1,4 +1,4 @@
-require 'spree_core'
+require 'solidus_core'
 require 'spree_komoju/engine'
 require 'spree_komoju/errors'
 require 'spree_komoju/controller_helpers'
